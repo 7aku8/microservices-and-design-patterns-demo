@@ -1,3 +1,5 @@
 api-gateway/node_modules
+api-gateway/dist
 notification/node_modules
+notification/dist
 .idea

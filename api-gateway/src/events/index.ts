@@ -1,0 +1,1 @@
+export { default as UserCreatedEvent } from './user-created.event';
