@@ -1,2 +1,3 @@
-./*/node_modules
+api-gateway/node_modules
+notification/node_modules
 .idea
